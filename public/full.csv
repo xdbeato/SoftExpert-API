@@ -1,0 +1,54 @@
+idformulario,formulario,tipoelementofm,etiquetaefm,idelementofm,REQUERIDO,DISPONIBLE,ORDEN,GRUPO,mobile_disp,campo,nombrecampo,entidad,QRY_LISTAVALOR,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Cedula / Pasaporte / Matrícula,numeroidentidad,2,2,1,,2,numerodeident,Numero de Identidad,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Nombres,nombresInput,2,2,3,,2,solicitnombre,Nombre del Ciudadano,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Primer Apellido,primerApellidoInput,2,2,4,,2,solicapellido1,Primer Apellido,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Segundo Apellido,segundoApellidoInput,2,2,5,,2,solicapellido2,Segundo Apellido,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,FECHA,Fecha,,2,2,6,,2,solicitudfecha,Fecha de la solicitud,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Lugar de Nacimiento,,2,2,6,,2,lugardenaci,Lugar de Nacimiento,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,HORA,Hora,,2,2,7,,2,solicitudhora,Hora de la solicitud,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Número de solicitud,solicitudNumero,2,2,8,,2,solicitudnumero,Numero de Solicitud,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,LISTA,Sexo,sexoLista,2,2,8,,2,sexoLista,Sexo,ENTIDAD,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Teléfono,telefonoInput,2,1,9,,2,solictelefono,Teléfono,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,LISTA,País de origen,paisOrigenList,2,2,9,,2,paisOrigenList,País de origen,ENTIDAD,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Celular,celularInput,1,1,10,,2,solicitcelular,Celular,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Correo electrónico,correoInput,1,1,11,,2,solicitemail,Email,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Matrícula,matriculaInput,1,1,14,,2,solicmatricula,Matricula del estudiante,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,LISTA,IES,universidadLista,2,2,15,,2,universidadLista,IES,ENTIDAD,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,LISTA,Recinto,recintoLista,2,2,16,,2,recintoLista,Recinto,ENTIDAD,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,LISTA,Carrera,carreraList,2,2,17,,2,carreraList,Carrera,ENTIDAD,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,RADIOBOT,Si,,2,2,93,,2,serviciovip,Servicio VIP,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,tarifa normal,tarifadoc,2,1,107,,2,tarifadoc,tarifa,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Nueva nota,,2,1,118,,2,notasinput,Agregar nota,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT4000,Notas,notasbody,2,2,120,,2,notasbody,Cuerpo notas,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,CHECK,Detalle de Documentos,dtldocument,2,1,127,,2,dtdocumentos,Detalle de Documentos check,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,CHECK,Documento adicional,,2,1,132,,2,documadicional,Documento adicional,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,CHECK,Documento adicional soporte faltante,,2,1,133,,2,docsopfalt,Documento de Soporte Faltante,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,moneda,moneda,2,1,138,,2,monedapg,Moneda de Pago,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,ID Documentos,iddocumentos,2,1,144,,2,documentsid,Id de los documentos a Legalizar,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,id atributos,idatributos,2,1,145,,2,idatributos,Id atributos,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Valores atributos,valores,2,1,148,,2,valoresattribut,Valores de los atributos,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Codigo Documentos,cddocs,2,1,152,,2,coddocum,Codigos de documentos,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT4000,Titulos,titulos,2,1,155,,2,doctitles,Titulo de Documentos,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,RADIOBOT,No,,2,2,158,,2,serviciovip,Servicio VIP,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,categorias certificaicones,categorias,2,1,160,,2,catcerts,Categorías de Certificaciones,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,titulos certificaciones,certtitulos,2,1,161,,2,certtitulos,Titulos de Certificaciones,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Atributos certificaciones,idatribcert,2,1,162,,2,idatributoscert,Id atributos certificaciones,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,nombres docs,nomdocsleg,2,1,163,,2,documentos,Documentos a Legalizar (Nombres),MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,firma autorizada,firma,2,1,164,,2,firmaaut,Firma Autorizada,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT4000,valores atributos certificacion,vlcertif,2,1,166,,2,vlattricert,Valores de Atributos certificacion,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,CHECK,.,CheckHelpers,2,1,167,,2,helperscheck,Marca para visualizar datos de ayuda técnica,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Cédula Rep.,,2,1,168,,2,solicitcedula2,Cédula del representante,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Fecha de titulo,,2,1,178,,2,fechatitulo,Fecha de Titulo,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Numero de titulo,,2,1,179,,2,numerotitulo,Numero de Titulo,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Tipo excepción pago,,2,1,185,,2,tipoescepago,Tipo de excepción de pago,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Autorización Tesorero,validtesorero,2,1,188,,2,validtesorero,Validacion para tesorero,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,comprobacion carrera derecho,derechocomp,2,1,190,,2,compcarrderecho,Comprobacion carrera derecho,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,CHECK,Certificaciones,cert,2,1,193,,2,certificaciones,Certificaciones,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,No. Folio,nf,2,1,196,,2,nofolio,Numero de Folio,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,No. Libro,,2,1,197,,2,nolibro,Numero de Libro,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Datos del Titulo,,2,1,198,,2,dttituloacadem,Datos del Titulo Academico,MESCyTHE03,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,LISTA,Estado Civil,estcivilLista,2,1,202,,2,estcivilLista,Estado Civil,ENTIDAD,QRY LV,REGLA
+MESCyTSolLegForm,Formulario de Solicitud de Legalización Documentos Académicos IES Activas,INPUT,Nombre Nacionalidad,nacionalidad,2,1,210,,2,nacionalnombre,Nombre Nacionalidad,MESCyTHE03,QRY LV,REGLA
+Líneas 5 25 50 100,,,,,,,,,,,,,,
+Cancelar,,,,,,,,,,,,,,
+Anterior Siguiente,,,,,,,,,,,,,,
